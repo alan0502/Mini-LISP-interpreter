@@ -1,6 +1,5 @@
 # Mini-LISP-interpreter
 
-109502007 張原鳴
 實作項目:
 1. Syntax validation
 2. Print
